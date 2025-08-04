@@ -2,6 +2,8 @@
 
 **Purpose.** Time-series forecasting pipeline for three related datasets (X, Y, Z) with leakage-safe feature engineering, normalization, and ensemble equipo weighting.
 
+Reference: https://towardsdatascience.com/time-series-forecasting-with-machine-learning-b3072a5b44ba/
+
 ## Quick Start
 
 1. Clone repo and place `Consultoria 1.ipynb` at root.
