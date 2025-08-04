@@ -7,8 +7,7 @@
 1. Clone repo and place `Consultoria 1.ipynb` at root.
 
 ```bash
-!python -m pip install --upgrade pip
-!pip install pandas matplotlib scikit-learn lightgbm statsmodels
+!python -m pip install -r requirements.txt
 ```
 
 4. Follow sections in order:
