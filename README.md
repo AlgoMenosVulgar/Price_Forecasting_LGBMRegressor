@@ -39,3 +39,16 @@ Modify weights and retrain:
 a, b, c = 1/3, 1/3, 1/3
 # recompute equipo combination and retrain forecast
 ```
+
+
+## Forecast Overview
+
+
+![Seasonal decomposition](Datos/seasonal.PNG)
+
+*Figure: Noise dominates the seasonal component, so models that rely on strong seasonality (e.g., ARIMAX) are inappropriate.*
+
+![Forecasting results](Datos/forecasting.PNG)
+
+*Figure: Predicted vs actual values from the forecasting pipeline; used to validate model performance over the prediction horizon.*
+
